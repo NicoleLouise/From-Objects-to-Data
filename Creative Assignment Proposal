@@ -1,23 +1,16 @@
-Requirements
-For this course, students are required to submit, individually, a proposal for a group project
+Personal Creative Assignment Proposal
+Nicole Louise de Groot – 114 191 56
 
-During the second half of the course, groups (up to 4 students per group) choose one of their proposals, conduct their research project and present their findings during the final lab session.
+My inspiration came from the datasets that are available to us on the site bij Marijn Koolen (http://humanities.uva.nl/~mkoolen1/teaching/#/FOtD/2015/datasets). The reason these peaked my interest is because in my bachelor program at the VU, we talked a lot about words that carry a certain meaning when used in a specific sentence. People use such words with a reason, either conscious or unconsciously. Such opinionating words are used often in pieces of text that are meant to convey a meaning, so reviews and essays. I chose reviews simply because they are available to me right away and there are a lot of them. I also believe reviews are a good research topic, because they all fall under the same genre, whereas essays can be about a number of different topics, which might be difficult when we get to generalizing the results.
 
-Groups hand in a portfolio with all their project materials and a written report.
+The interesting thing about most sites where you can review products is the ability to rate, like and/or dislike the reviews. ‘Good’ reviews, therefore, can get upvoted and similarly, ‘bad’ reviews can be downvoted. What is also a vital part in this research project is the fact that these up- and downvotes are cast by the public and customers themselves, which gives a nice image of what they actually want and don’t want, or, maybe you should rather say, what the public considers ‘good’ and ‘bad’. If online (and maybe even offline) stores would know what the public likes and dislikes, then maybe they could use these tactics in the future to generate product descriptions that fit better with the customers’ expectations (and therefore augment the chances of people buying their stuff).
+The question then arises: What makes a review, in the eye of the customer, a ‘good’ review?
 
-The project proposal should contain:
+To answer this question, you can look at (the quantity of) sentence length and -count, word length and -count and the complexity of the sentences and overall review (e.g. does it contain paragraphs, headers, punctuation, etc.)
 
-two or more research questions regarding a data set (can be a data set used in the course or another data set of choice)
-a high-level description of methods and steps to investigate this
-a description of how results of investigation can answer or shed light on research questions
-The proposal is an individual assignment. Each student should hand in their own proposals, which should be no longer than 1 page A4
+After researching this, it might be interesting to study the effect of these ‘good’ reviews on actual sales, which would form the question: What is the actual effect of ‘good’ reviews on sales of a product?
 
-The portfolio should include:
+This question can be answered by using multiple subquestions:
+Do products with more ‘good’ reviews actually get bought more than products that don’t?
+Do products with more ‘average’ reviews get bought more than products with fewer ‘good’ reviews?
 
-scripts that produce results from the original data set
-a report containing:
-explanation of your research question, approach, analysis and interpretation of the results
-a reflection on lessons learned. This may include visualisations of the results.
-The portfolio is a group assignment, in the form of a gitHub repository with separate files for scripts and documentation.
-
-Report should not exceed 2500 words.
