@@ -1,0 +1,22 @@
+;bookname;overallrating;numberofratings;numberofeditions;numberofreviews;author;popularitysimple
+1;Sense and Sensibility ;4,05;722431;1575;10303;Austen;183578,2625
+2;Pride and Prejudice;4,24;1974195;2831;44403;Austen;505358,31
+3;Mansfield Park;3,82;201010;980;6314;Austen;52076,955
+4;Emma;3,98;464196;1370;10514;Austen;119020,995
+5;Persuasion;4,13;362874;1122;11784;Austen;93946,0325
+6;Northanger Abbey ;3,79;211383;1024;7625;Austen;55008,9475
+7;The Pickwick Papers;3,81;18464;511;1042;Dickens;5005,2025
+8;Oliver Twist ;3,84;231679;1499;4743;Dickens;59481,21
+9;Nicholas Nickleby;3,88;31091;424;1003;Dickens;8130,47
+10;The Old Curiosity Shop ;3,74;11619;348;701;Dickens;3167,935
+11;Barnaby Rudge ;3,78;6883;239;324;Dickens;1862,445
+12;Martin Chuzzlewit ;3,82;11986;262;378;Dickens;3157,455
+13;Dombey and Son ;3,89;9115;260;424;Dickens;2450,7225
+14;David Copperfield;3,95;153155;163;4131;Dickens;39363,2375
+15;Bleak House ;3,99;68076;549;2865;Dickens;17873,4975
+16;Hard Times ;3,49;38530;602;1866;Dickens;10250,3725
+17;Little Dorrit ;3,96;33368;367;1061;Dickens;8699,99
+18;A Tale of Two Cities ;3,8;11984;1594;11984;Dickens;6391,45
+19;Great Expectations ;3,74;466817;219;11233;Dickens;119568,185
+20;Our Mutual Friend ;4,07;18730;319;966;Dickens;5004,7675
+21;The Mystery of Edwin Drood ;3,65;7910;289;540;Dickens;2185,6625
